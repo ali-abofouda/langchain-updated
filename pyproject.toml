@@ -1,7 +1,7 @@
 [project]
 name = "langchain-updated"
 version = "0.1.0"
-description = "Add your description here"
+description = "Executable notes and examples for LangChain platform updates"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
